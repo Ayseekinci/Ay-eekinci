@@ -11,5 +11,5 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python
-
+- 🔧 &nbsp; Git 
 <br/>
